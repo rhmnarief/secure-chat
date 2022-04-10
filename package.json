@@ -1,5 +1,5 @@
 {
-  "name": "secure_chat",
+  "name": "secure_chat" ,
   "version": "0.0.2",
   "description": "Realtime secure chat system",
   "main": "app.js",
